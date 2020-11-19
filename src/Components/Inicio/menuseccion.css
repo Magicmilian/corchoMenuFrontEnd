@@ -1,0 +1,37 @@
+.menuSeccion {
+  padding: 0px;
+}
+
+.nombreCategoria {
+  text-align: center;
+  color: rgb(74, 151, 119);
+  word-break: break-all;
+  text-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.6);
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.hrTag {
+  background-color: white;
+}
+
+.descripcionProducto {
+  color: rgba(245, 245, 245, 0.7);
+}
+
+.precioProducto {
+  margin-left: 5px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.menuItem {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.descripcionCategoria {
+  color: rgba(245, 245, 245, 0.7);
+  padding-left: 5px;
+  padding-right: 5px;
+}

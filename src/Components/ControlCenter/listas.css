@@ -1,0 +1,75 @@
+.itemCategoria{
+    background-color: rgb(8, 59, 110);
+    text-align: center;
+    justify-content: center;
+    padding: 6px;
+    transition: all 100ms ease-in-out;
+    display: flex;
+    flex-wrap: wrap;
+    word-break: normal;
+    color: whitesmoke;
+}
+
+.itemCategoria:hover{
+    transform: scale(1.1);
+    background-color: rgb(21, 79, 189);
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.itemProducto{
+    background-color: rgb(8, 59, 110);
+    text-align: center;
+    justify-content: center;
+    padding: 6px;
+    transition: all 100ms ease-in-out;
+    display: flex;
+    flex-wrap: wrap;
+    word-break: normal;
+    color: whitesmoke;
+}
+
+.itemProducto:hover{
+    transform: scale(1.1);
+    background-color: rgb(21, 79, 189);
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.itemProductoHuerfano{
+    background-color: rgb(110, 8, 8);
+    text-align: center;
+    justify-content: center;
+    padding: 6px;
+    transition: all 100ms ease-in-out;
+    display: flex;
+    flex-wrap: wrap;
+    word-break: normal;
+    color: whitesmoke;
+}
+
+.itemProductoHuerfano:hover{
+    transform: scale(1.1);
+    background-color: rgb(165, 6, 6);
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.itemProductoNoPublicado{
+    background-color: rgb(53, 53, 53);
+    text-align: center;
+    justify-content: center;
+    padding: 6px;
+    transition: all 100ms ease-in-out;
+    display: flex;
+    flex-wrap: wrap;
+    word-break: normal;
+    color: whitesmoke;
+}
+
+.itemProductoNoPublicado:hover{
+    transform: scale(1.1);
+    background-color: rgb(90, 90, 90);
+    color: whitesmoke;
+    text-decoration: none;
+}
