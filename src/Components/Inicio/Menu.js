@@ -3,7 +3,7 @@ import MenuSeccion from "./MenuSeccion";
 
 const Menu = (props) => {
   return (
-    <div className="d-flex flex-wrap align-items-start">
+    <div className="d-flex flex-wrap">
       {props.listaCategorias.map((categoria) =>
         categoria.menuCategoria === props.menuType ||
         categoria.menuCategoria === "Ambos" ? (
